@@ -2,6 +2,11 @@
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
+    background-color: gold;
+}
+
+.navbar-header {
+    background-color: gold;
 }
   
   /* Add a gray background color and some padding to the footer */
@@ -16,5 +21,16 @@ footer {
 
 .jumbotron {
     background-color: blue;
+}
+
+img {
+    border-radius: 1000px;
+}
+
+iframe {
+    background-color: red;
+    /* overflow: none; */
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
  
