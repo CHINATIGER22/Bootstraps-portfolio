@@ -1,7 +1,7 @@
  /* Remove the navbar's default margin-bottom and rounded borders */ 
 .navbar {
-    margin-bottom: 0;
-    border-radius: 0;
+    margin-bottom: none;
+    border-radius: none;
     background-color: cornflowerblue;
 }
 
@@ -10,18 +10,21 @@
 }
 
 .jumbotron {
-    font-family: 'Times New Roman', Times, serif, Arial black, Tahoma, Serif;}
+    font-family: 'Times New Roman', Times, serif, Arial black, Tahoma, Serif;
+    background-color: cornflowerblue;padding: 0%;
+}
+    
 .container-fluid1{
-    color: cornflowerblue;
+    /* color: cornflowerblue; */
+
 }
 
 p {
-    color: bisque;
+    color: red;
     padding-top: 10%;
     margin: 2%;
 }
   
-  /* Add a gray background color and some padding to the footer */
 footer {
     background-color: cornflowerblue;
     padding: 25px;
