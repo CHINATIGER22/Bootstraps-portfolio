@@ -11,7 +11,7 @@
   
   /* Add a gray background color and some padding to the footer */
 footer {
-    background-color: goldenrod;
+    background-color: aqua;
     padding: 25px;
 }
 
@@ -24,18 +24,8 @@ footer {
     margin: 0%;
 }
 
-.jumbotron {
-    background-color: blue;
-}
-
-img {
+#home-img {
     border-radius: 1000px;
 }
 
-iframe {
-    background-color: red;
-    /* overflow: none; */
-    overflow-y: hidden;
-    overflow-x: hidden;
-}
  
