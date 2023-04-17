@@ -2,16 +2,28 @@
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
-    background-color: gold;
+    background-color: cornflowerblue;
 }
 
 .navbar-header {
-    background-color: gold;
+    background-color: cornflowerblue;
+}
+
+.jumbotron {
+    font-family: 'Times New Roman', Times, serif, Arial black, Tahoma, Serif;}
+.container-fluid1{
+    color: cornflowerblue;
+}
+
+p {
+    color: bisque;
+    padding-top: 10%;
+    margin: 2%;
 }
   
   /* Add a gray background color and some padding to the footer */
 footer {
-    background-color: aqua;
+    background-color: cornflowerblue;
     padding: 25px;
 }
 
@@ -24,8 +36,19 @@ footer {
     margin: 0%;
 }
 
+.bg-3 {
+    background-image: url(/images/blue-smiles.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    justify-content: center;
+    padding: 0%;
+    margin: 0%;
+}
+
 #home-img {
     border-radius: 1000px;
+    
 }
 
  
